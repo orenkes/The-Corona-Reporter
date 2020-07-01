@@ -1,5 +1,7 @@
 ## The Corona Reporter 🦠
 
+The corona reporter shows information about the corona virus spreading.
+
 `Demo:`
 
 https://oren-kesler-coronareporter.netlify.app
